@@ -1,0 +1,10 @@
+function bankDetails (bankName,accountNum,location,pinCode){
+    var v1 = bankName;
+    var v2 = accountNum;
+    var v3 = location;
+    var v4 = pinCode;
+    console.log("bankName :",v1,"account.no :",v2,"location :",v3, "pincode:",v4);
+}
+bankDetails ("CITY Bank","3456782345","pune","431202");
+bankDetails("Axix Bank","7856782345","mumbai","441202");
+bankDetails("HDFC Bank","8956782345","Pune","631202","Open");
