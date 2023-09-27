@@ -77,4 +77,5 @@ console.log(`Marks is ${marks} ==> ${result}`);
 // If number is even then return "EVEN" else "ODD"
 var num = 13;
 var result = num%2 == 0 ? "EVEN" : "ODD";
+
 console.log(`Given number is ${num} ==> ${result}`);
