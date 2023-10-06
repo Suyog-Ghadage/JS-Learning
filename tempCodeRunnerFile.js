@@ -1,1 +1,1 @@
-Google
+console.log(`${result}`);
