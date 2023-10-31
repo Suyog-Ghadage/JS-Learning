@@ -33,10 +33,8 @@ console.log(professor);
 
 console.log(`======================================================================`);
 
-for (const certificate of professor) {
-    
-
-    
+for (let i = 0 ; i >= professor.certificate.length-1 ; i++) {
+    console.log(`index = ${i} & values = ${professor.certificate.length-1}`);
 }
 
 
